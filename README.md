@@ -27,10 +27,10 @@
 </h3>
 
 <p align="center">
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/ctccts22" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ctccts22"/>
  </a>
- <a href="https://instagram.com/_ctccts22" target="_blank">
+ <a href="https://instagram.com/_____gyuno" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ctccts22" />
  </a> 
 </p>
