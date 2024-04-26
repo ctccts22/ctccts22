@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctccts22&layout=donut-vertical)](https://github.com/ctccts22/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctccts22&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctccts22&show_icons=true&theme=radical)
 
 <!--
