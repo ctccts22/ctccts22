@@ -70,10 +70,10 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/web-projects)
-[![Gyuno Readme](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=ctccts22&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/ctccts22)
+[![New Project](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=side-project-v1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/side-project-v1)
+[![RestAPI Practice](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=ejm-task&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/ejm-task)
+[![TestCode Practice](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=spring-boot-testing&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/spring-boot-testing)
+[![RestAPI Blog](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=springboot-blog-rest-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/springboot-blog-rest-api)
 
 <p align="left">
   <a href="https://github.com/ctccts22?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
