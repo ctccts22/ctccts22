@@ -48,8 +48,6 @@
  💬 &emsp; Ask me about anything [here](https://github.com/ctccts22/ctccts22/issues)
 
 </p>
-
-<br/>
 <br/>
 <br/>
 
