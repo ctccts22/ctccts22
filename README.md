@@ -27,7 +27,7 @@
 </h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/gyuno-lee-9761a1305/" target="_blank">
+ <a href="www.linkedin.com/in/gyuno-lee-9761a1305" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ctccts22"/>
  </a>
  <a href="https://instagram.com/_____gyuno" target="_blank">
