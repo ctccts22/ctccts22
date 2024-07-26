@@ -68,7 +68,7 @@
 <br/>
 
 ## Top Open Source -
-[![New Project](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=side-project-v1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/sideproject_v2)
+[![New Project](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=sideproject_v2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/sideproject_v2)
 [![RestAPI Practice](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=ejm-task&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/ejm-task)
 [![TestCode Practice](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=spring-boot-testing&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/spring-boot-testing)
 [![RestAPI Blog](https://github-readme-stats.vercel.app/api/pin/?username=ctccts22&repo=springboot-blog-rest-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ctccts22/springboot-blog-rest-api)
